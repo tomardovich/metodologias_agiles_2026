@@ -15,6 +15,6 @@ No, actualmente no estoy trabajando.
 No tengo conocimientos sobre Herramientas de integración y entrega continua.
 
 Para mí las características principales de un desarrollo ágil son:
--Comunicación entre los participantes del proyecto.
--Material sea adaptable al cambio, porque el software cambia to el rato.
--Realizar entregas parciales al cliente para ver si estamos en buen camino.
+- Comunicación entre los participantes del proyecto.
+- Material sea adaptable al cambio, porque el software cambia to el rato.
+- Realizar entregas parciales al cliente para ver si estamos en buen camino.
